@@ -56,5 +56,5 @@ For issues, questions, or feature requests, please open an issue on the [GitHub 
 This plugin is licensed under MIT. See the LICENSE file for details.
 
 ## Credits
-- Created by Claude
+- Created by Ethan98GG
 - Uses the ZeresPluginLibrary by Zerebos
