@@ -20,8 +20,8 @@ const config = {
         ],
         version: "1.2.0",
         description: "Blocks ping notifications for specific roles by their IDs and hides messages containing those pings",
-        github: "https://github.com/yourusername/RoleIDPingBlocker",
-        github_raw: "https://raw.githubusercontent.com/yourusername/RoleIDPingBlocker/main/RoleIDPingBlocker.plugin.js"
+        github: "https://github.com/Ethan98GG/RoleIDPingBlocker",
+        github_raw: "https://raw.githubusercontent.com/Ethan98GG/RoleIDPingBlocker/main/RoleIDPingBlocker.plugin.js"
     },
     changelog: [
         {
